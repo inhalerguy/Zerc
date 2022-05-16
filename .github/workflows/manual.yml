@@ -1,0 +1,7 @@
+- name: A Simple Changelog Generator
+  # You may pin to the exact commit or the version.
+  # uses: shanemcd/simple-changelog-generator@e3d74d2b9020ed77c6b50650cd47a75a0aef821c
+  uses: shanemcd/simple-changelog-generator@v1
+  with:
+    # Repo to scan. Must be formatted as owner/repo.
+    repo: 
